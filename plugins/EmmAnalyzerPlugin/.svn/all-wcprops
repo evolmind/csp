@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/CSP/!svn/ver/73/trunk/plugins/EmmAnalyzerPlugin
+END
+EmmAnalyzerPlugin.iml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CSP/!svn/ver/1/trunk/plugins/EmmAnalyzerPlugin/EmmAnalyzerPlugin.iml
+END
+EmmAnalyzerPlugin.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CSP/!svn/ver/1/trunk/plugins/EmmAnalyzerPlugin/EmmAnalyzerPlugin.ipr
+END
+README.EmmAnalyzerPlugin.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CSP/!svn/ver/1/trunk/plugins/EmmAnalyzerPlugin/README.EmmAnalyzerPlugin.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/CSP/!svn/ver/73/trunk/plugins/EmmAnalyzerPlugin/build.xml
+END

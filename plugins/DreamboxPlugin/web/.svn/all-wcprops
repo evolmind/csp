@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/CSP/!svn/ver/196/trunk/plugins/DreamboxPlugin/web
+END
+installer-template.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CSP/!svn/ver/148/trunk/plugins/DreamboxPlugin/web/installer-template.sh
+END
+setup_mgcamd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CSP/!svn/ver/185/trunk/plugins/DreamboxPlugin/web/setup_mgcamd.sh
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/CSP/!svn/ver/1/trunk/plugins/DreamboxPlugin/web/test.sh
+END
+load.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/CSP/!svn/ver/196/trunk/plugins/DreamboxPlugin/web/load.js
+END
+fetch_binaries.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CSP/!svn/ver/150/trunk/plugins/DreamboxPlugin/web/fetch_binaries.sh
+END

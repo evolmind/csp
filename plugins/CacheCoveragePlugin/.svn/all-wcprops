@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/CSP/!svn/ver/202/trunk/plugins/CacheCoveragePlugin
+END
+CacheCoveragePlugin.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CSP/!svn/ver/193/trunk/plugins/CacheCoveragePlugin/CacheCoveragePlugin.ipr
+END
+README.CacheCoveragePlugin.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CSP/!svn/ver/200/trunk/plugins/CacheCoveragePlugin/README.CacheCoveragePlugin.txt
+END
+CacheCoveragePlugin.iml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CSP/!svn/ver/202/trunk/plugins/CacheCoveragePlugin/CacheCoveragePlugin.iml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/CSP/!svn/ver/201/trunk/plugins/CacheCoveragePlugin/build.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CSP/!svn/ver/202/trunk/plugins/CacheCoveragePlugin/src/com/bowman/cardserv
+END
+CacheForwarder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CSP/!svn/ver/201/trunk/plugins/CacheCoveragePlugin/src/com/bowman/cardserv/CacheForwarder.java
+END
+status-commands.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CSP/!svn/ver/197/trunk/plugins/CacheCoveragePlugin/src/com/bowman/cardserv/status-commands.xml
+END
+ServiceCacheEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CSP/!svn/ver/198/trunk/plugins/CacheCoveragePlugin/src/com/bowman/cardserv/ServiceCacheEntry.java
+END
+SourceCacheEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CSP/!svn/ver/197/trunk/plugins/CacheCoveragePlugin/src/com/bowman/cardserv/SourceCacheEntry.java
+END
+CacheCoverageMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CSP/!svn/ver/193/trunk/plugins/CacheCoveragePlugin/src/com/bowman/cardserv/CacheCoverageMap.java
+END
+CacheCoveragePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CSP/!svn/ver/201/trunk/plugins/CacheCoveragePlugin/src/com/bowman/cardserv/CacheCoveragePlugin.java
+END

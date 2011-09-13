@@ -1,0 +1,24 @@
+110910 23:11:25.161 INFO -> Starting plugin: IrdetoPlugin - Extracts irdeto ch-id from irdeto ecms.
+110910 23:11:25.162 INFO -> Starting plugin: ProviderIdentPlugin - Extracts provider ident from viaccess and seca ecms.
+110910 23:11:25.162 INFO -> Starting plugin: DcwFilterPlugin - Change bad dcws into empty newcamd replies (cannot decode) and do some basic analysis.
+110910 23:11:25.162 INFO -> DcwFilterPlugin <- Filtering bad CWs: [00 00 00 00 00 00 3C 3C 00 00 00 00 00 00 3C 3C, 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00]
+110910 23:11:25.206 INFO -> NewcamdCws[test1:myprofile] <- Using asynchronous newcamd mode.
+110910 23:11:25.212 INFO -> -= CardServProxy 0.9.0r203 initialized =-
+110910 23:11:25.214 INFO -> Listening on: [N11112, R11113]
+110910 23:11:25.215 INFO -> CwsConnectorManager <- Starting...
+110910 23:12:01.578 INFO -> Starting plugin: IrdetoPlugin - Extracts irdeto ch-id from irdeto ecms.
+110910 23:12:01.579 INFO -> Starting plugin: ProviderIdentPlugin - Extracts provider ident from viaccess and seca ecms.
+110910 23:12:01.579 INFO -> Starting plugin: DcwFilterPlugin - Change bad dcws into empty newcamd replies (cannot decode) and do some basic analysis.
+110910 23:12:01.579 INFO -> DcwFilterPlugin <- Filtering bad CWs: [00 00 00 00 00 00 3C 3C 00 00 00 00 00 00 3C 3C, 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00]
+110910 23:12:01.627 INFO -> NewcamdCws[test1:myprofile] <- Using asynchronous newcamd mode.
+110910 23:12:01.633 INFO -> -= CardServProxy 0.9.0r203 initialized =-
+110910 23:12:01.633 INFO -> Listening on: [N11112, R11113]
+110910 23:12:01.635 INFO -> CwsConnectorManager <- Starting...
+110910 23:12:01.635 INFO -> Waiting for connection manager to finish one cycle...
+110910 23:12:01.635 INFO -> Ready. Receiving connections...
+110910 23:12:01.637 INFO -> Listen port ready for profile 'myprofile' - N11112
+110910 23:12:01.637 INFO -> Listen port ready for profile 'myprofile' - R11113
+110910 23:12:01.637 WARNING -> Failed to open listen port [E15112] for '*' (Address already in use)
+110910 23:12:01.638 INFO -> Listen port ready for profile '*' - E15112
+110910 23:12:01.638 INFO -> Listen port closed: E15112
+110910 23:12:39.372 INFO -> WebBackend <- User 'admin' logged in.

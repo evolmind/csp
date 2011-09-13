@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/CSP/!svn/ver/1/trunk/web/js/cm
+END
+codemirror.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/CSP/!svn/ver/1/trunk/web/js/cm/codemirror.js
+END
+undo.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/CSP/!svn/ver/1/trunk/web/js/cm/undo.js
+END
+editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/CSP/!svn/ver/1/trunk/web/js/cm/editor.js
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/CSP/!svn/ver/1/trunk/web/js/cm/LICENSE
+END
+tokenize.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/CSP/!svn/ver/1/trunk/web/js/cm/tokenize.js
+END
+parsexml.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/CSP/!svn/ver/1/trunk/web/js/cm/parsexml.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/CSP/!svn/ver/1/trunk/web/js/cm/util.js
+END
+xmlcolors.css
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/CSP/!svn/ver/1/trunk/web/js/cm/xmlcolors.css
+END
+select.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/CSP/!svn/ver/1/trunk/web/js/cm/select.js
+END
+stringstream.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/CSP/!svn/ver/1/trunk/web/js/cm/stringstream.js
+END

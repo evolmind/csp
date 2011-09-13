@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/CSP/!svn/ver/154/trunk/src/com/bowman/cardserv/mysql
+END
+Profile.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CSP/!svn/ver/72/trunk/src/com/bowman/cardserv/mysql/Profile.java
+END
+ConnectionPoolManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CSP/!svn/ver/154/trunk/src/com/bowman/cardserv/mysql/ConnectionPoolManager.java
+END
+CacheEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CSP/!svn/ver/72/trunk/src/com/bowman/cardserv/mysql/CacheEntry.java
+END
+MySQLConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CSP/!svn/ver/126/trunk/src/com/bowman/cardserv/mysql/MySQLConnection.java
+END
+UserCacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CSP/!svn/ver/126/trunk/src/com/bowman/cardserv/mysql/UserCacheManager.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/CSP/!svn/ver/126/trunk/src/com/bowman/cardserv/mysql/User.java
+END

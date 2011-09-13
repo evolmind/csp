@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/CSP/!svn/ver/1/trunk/config/example
+END
+connectors.example.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/CSP/!svn/ver/1/trunk/config/example/connectors.example.xml
+END
+users.example.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/CSP/!svn/ver/1/trunk/config/example/users.example.xml
+END

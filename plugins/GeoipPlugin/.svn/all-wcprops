@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/CSP/!svn/ver/73/trunk/plugins/GeoipPlugin
+END
+GeoipPlugin.iml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/CSP/!svn/ver/1/trunk/plugins/GeoipPlugin/GeoipPlugin.iml
+END
+GeoipPlugin.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/CSP/!svn/ver/1/trunk/plugins/GeoipPlugin/GeoipPlugin.ipr
+END
+README.GeoipPlugin.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/CSP/!svn/ver/1/trunk/plugins/GeoipPlugin/README.GeoipPlugin.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/CSP/!svn/ver/73/trunk/plugins/GeoipPlugin/build.xml
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/CSP/!svn/ver/201/trunk/src/com/bowman/cardserv/rmi
+END
+CwsStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/rmi/CwsStatus.java
+END
+RemoteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/rmi/RemoteListener.java
+END
+PluginStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/rmi/PluginStatus.java
+END
+UserStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CSP/!svn/ver/178/trunk/src/com/bowman/cardserv/rmi/UserStatus.java
+END
+ProfileStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CSP/!svn/ver/121/trunk/src/com/bowman/cardserv/rmi/ProfileStatus.java
+END
+IpCheckServerSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/rmi/IpCheckServerSocket.java
+END
+AbstractStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CSP/!svn/ver/44/trunk/src/com/bowman/cardserv/rmi/AbstractStatus.java
+END
+CacheStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/rmi/CacheStatus.java
+END
+IpCheckSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/rmi/IpCheckSocketFactory.java
+END
+SessionStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/rmi/SessionStatus.java
+END
+PortStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/rmi/PortStatus.java
+END
+RemoteHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CSP/!svn/ver/201/trunk/src/com/bowman/cardserv/rmi/RemoteHandler.java
+END
+RemoteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CSP/!svn/ver/43/trunk/src/com/bowman/cardserv/rmi/RemoteEvent.java
+END
+RemoteProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CSP/!svn/ver/201/trunk/src/com/bowman/cardserv/rmi/RemoteProxy.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CSP/!svn/ver/128/trunk/plugins/MySQLWebManagementPlugin/src/com/bowman/cardserv
+END
+MySQLWebManagementPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CSP/!svn/ver/126/trunk/plugins/MySQLWebManagementPlugin/src/com/bowman/cardserv/MySQLWebManagementPlugin.java
+END
+status-commands.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CSP/!svn/ver/126/trunk/plugins/MySQLWebManagementPlugin/src/com/bowman/cardserv/status-commands.xml
+END
+ctrl-commands.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CSP/!svn/ver/128/trunk/plugins/MySQLWebManagementPlugin/src/com/bowman/cardserv/ctrl-commands.xml
+END

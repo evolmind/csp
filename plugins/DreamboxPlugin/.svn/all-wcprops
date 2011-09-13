@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/CSP/!svn/ver/196/trunk/plugins/DreamboxPlugin
+END
+DreamboxPlugin.iml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/CSP/!svn/ver/1/trunk/plugins/DreamboxPlugin/DreamboxPlugin.iml
+END
+DreamboxPlugin.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/CSP/!svn/ver/1/trunk/plugins/DreamboxPlugin/DreamboxPlugin.ipr
+END
+README.DreamboxPlugin.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CSP/!svn/ver/136/trunk/plugins/DreamboxPlugin/README.DreamboxPlugin.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/CSP/!svn/ver/131/trunk/plugins/DreamboxPlugin/build.xml
+END

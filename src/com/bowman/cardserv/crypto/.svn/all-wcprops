@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/crypto
+END
+FishUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/crypto/FishUtil.java
+END
+MD5Crypt.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/crypto/MD5Crypt.java
+END
+DESUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/crypto/DESUtil.java
+END

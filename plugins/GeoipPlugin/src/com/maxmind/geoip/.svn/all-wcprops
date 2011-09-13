@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/CSP/!svn/ver/64/trunk/plugins/GeoipPlugin/src/com/maxmind/geoip
+END
+DatabaseInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CSP/!svn/ver/64/trunk/plugins/GeoipPlugin/src/com/maxmind/geoip/DatabaseInfo.java
+END
+Country.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CSP/!svn/ver/1/trunk/plugins/GeoipPlugin/src/com/maxmind/geoip/Country.java
+END
+Region.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CSP/!svn/ver/1/trunk/plugins/GeoipPlugin/src/com/maxmind/geoip/Region.java
+END
+regionName.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CSP/!svn/ver/64/trunk/plugins/GeoipPlugin/src/com/maxmind/geoip/regionName.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CSP/!svn/ver/64/trunk/plugins/GeoipPlugin/src/com/maxmind/geoip/Location.java
+END
+LookupService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CSP/!svn/ver/64/trunk/plugins/GeoipPlugin/src/com/maxmind/geoip/LookupService.java
+END
+timeZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CSP/!svn/ver/64/trunk/plugins/GeoipPlugin/src/com/maxmind/geoip/timeZone.java
+END

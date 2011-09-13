@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/CSP/!svn/ver/203/trunk/src/com/bowman/cardserv/util
+END
+WrappedFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/util/WrappedFileHandler.java
+END
+ProxyLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CSP/!svn/ver/16/trunk/src/com/bowman/cardserv/util/ProxyLogger.java
+END
+UnixUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/util/UnixUtil.java
+END
+XmlStringBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/util/XmlStringBuffer.java
+END
+ProxyXmlTracer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/util/ProxyXmlTracer.java
+END
+ProxyXmlConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/util/ProxyXmlConfig.java
+END
+TimedAverageList.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/util/TimedAverageList.java
+END
+PluginClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/util/PluginClassLoader.java
+END
+CustomFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CSP/!svn/ver/16/trunk/src/com/bowman/cardserv/util/CustomFormatter.java
+END
+SimpleTlvBlob.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CSP/!svn/ver/203/trunk/src/com/bowman/cardserv/util/SimpleTlvBlob.java
+END

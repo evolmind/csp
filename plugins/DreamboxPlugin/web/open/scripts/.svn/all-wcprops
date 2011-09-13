@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/CSP/!svn/ver/143/trunk/plugins/DreamboxPlugin/web/open/scripts
+END
+run_ifconfig.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CSP/!svn/ver/1/trunk/plugins/DreamboxPlugin/web/open/scripts/run_ifconfig.sh
+END
+zap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CSP/!svn/ver/131/trunk/plugins/DreamboxPlugin/web/open/scripts/zap.sh
+END
+set_proxy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CSP/!svn/ver/143/trunk/plugins/DreamboxPlugin/web/open/scripts/set_proxy.sh
+END
+set_interval.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CSP/!svn/ver/1/trunk/plugins/DreamboxPlugin/web/open/scripts/set_interval.sh
+END
+agent_update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CSP/!svn/ver/110/trunk/plugins/DreamboxPlugin/web/open/scripts/agent_update.sh
+END
+clean_tmp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CSP/!svn/ver/1/trunk/plugins/DreamboxPlugin/web/open/scripts/clean_tmp.sh
+END
+ssh_tunnel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CSP/!svn/ver/130/trunk/plugins/DreamboxPlugin/web/open/scripts/ssh_tunnel.sh
+END
+osd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CSP/!svn/ver/143/trunk/plugins/DreamboxPlugin/web/open/scripts/osd.sh
+END

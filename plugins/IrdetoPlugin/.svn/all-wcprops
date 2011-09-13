@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/CSP/!svn/ver/73/trunk/plugins/IrdetoPlugin
+END
+README.IrdetoPlugin.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CSP/!svn/ver/1/trunk/plugins/IrdetoPlugin/README.IrdetoPlugin.txt
+END
+IrdetoPlugin.iml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/CSP/!svn/ver/1/trunk/plugins/IrdetoPlugin/IrdetoPlugin.iml
+END
+IrdetoPlugin.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/CSP/!svn/ver/1/trunk/plugins/IrdetoPlugin/IrdetoPlugin.ipr
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/CSP/!svn/ver/73/trunk/plugins/IrdetoPlugin/build.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/CSP/!svn/ver/176/trunk/plugins/DcwFilterPlugin
+END
+DcwFilterPlugin.iml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CSP/!svn/ver/1/trunk/plugins/DcwFilterPlugin/DcwFilterPlugin.iml
+END
+DcwFilterPlugin.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CSP/!svn/ver/74/trunk/plugins/DcwFilterPlugin/DcwFilterPlugin.ipr
+END
+README.DcwFilterPlugin.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CSP/!svn/ver/115/trunk/plugins/DcwFilterPlugin/README.DcwFilterPlugin.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/CSP/!svn/ver/73/trunk/plugins/DcwFilterPlugin/build.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/CSP/!svn/ver/73/trunk/plugins/ConaxConnector
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/CSP/!svn/ver/59/trunk/plugins/ConaxConnector/changelog.txt
+END
+README.ConaxConnector.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CSP/!svn/ver/1/trunk/plugins/ConaxConnector/README.ConaxConnector.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/CSP/!svn/ver/73/trunk/plugins/ConaxConnector/build.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/CSP/!svn/ver/201/trunk/src/com/bowman/cardserv/session
+END
+NewcamdSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CSP/!svn/ver/178/trunk/src/com/bowman/cardserv/session/NewcamdSession.java
+END
+ExtNewcamdSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CSP/!svn/ver/165/trunk/src/com/bowman/cardserv/session/ExtNewcamdSession.java
+END
+AbstractSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CSP/!svn/ver/201/trunk/src/com/bowman/cardserv/session/AbstractSession.java
+END
+CspSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CSP/!svn/ver/165/trunk/src/com/bowman/cardserv/session/CspSession.java
+END
+EcmTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CSP/!svn/ver/44/trunk/src/com/bowman/cardserv/session/EcmTransaction.java
+END
+SeenEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/session/SeenEntry.java
+END
+RadegastSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CSP/!svn/ver/37/trunk/src/com/bowman/cardserv/session/RadegastSession.java
+END
+SessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CSP/!svn/ver/192/trunk/src/com/bowman/cardserv/session/SessionManager.java
+END

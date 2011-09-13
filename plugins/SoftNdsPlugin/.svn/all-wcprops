@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/CSP/!svn/ver/73/trunk/plugins/SoftNdsPlugin
+END
+SoftNdsPlugin.iml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/CSP/!svn/ver/1/trunk/plugins/SoftNdsPlugin/SoftNdsPlugin.iml
+END
+SoftNdsPlugin.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/CSP/!svn/ver/1/trunk/plugins/SoftNdsPlugin/SoftNdsPlugin.ipr
+END
+README.SoftNdsPlugin.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CSP/!svn/ver/1/trunk/plugins/SoftNdsPlugin/README.SoftNdsPlugin.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/CSP/!svn/ver/73/trunk/plugins/SoftNdsPlugin/build.xml
+END

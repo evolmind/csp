@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/CSP/!svn/ver/128/trunk/plugins/MySQLWebManagementPlugin
+END
+MySQLWebManagementPlugin.iml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CSP/!svn/ver/65/trunk/plugins/MySQLWebManagementPlugin/MySQLWebManagementPlugin.iml
+END
+MySQLWebManagementPlugin.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CSP/!svn/ver/65/trunk/plugins/MySQLWebManagementPlugin/MySQLWebManagementPlugin.ipr
+END
+README.MySQLWebManagementPlugin.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CSP/!svn/ver/126/trunk/plugins/MySQLWebManagementPlugin/README.MySQLWebManagementPlugin.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CSP/!svn/ver/73/trunk/plugins/MySQLWebManagementPlugin/build.xml
+END

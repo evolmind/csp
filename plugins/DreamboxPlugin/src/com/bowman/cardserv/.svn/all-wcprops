@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CSP/!svn/ver/196/trunk/plugins/DreamboxPlugin/src/com/bowman/cardserv
+END
+AgentSshd.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CSP/!svn/ver/149/trunk/plugins/DreamboxPlugin/src/com/bowman/cardserv/AgentSshd.java
+END
+DreamboxPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CSP/!svn/ver/196/trunk/plugins/DreamboxPlugin/src/com/bowman/cardserv/DreamboxPlugin.java
+END
+sshd-logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CSP/!svn/ver/1/trunk/plugins/DreamboxPlugin/src/com/bowman/cardserv/sshd-logging.properties
+END
+BoxRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CSP/!svn/ver/1/trunk/plugins/DreamboxPlugin/src/com/bowman/cardserv/BoxRegistry.java
+END
+status-commands.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CSP/!svn/ver/196/trunk/plugins/DreamboxPlugin/src/com/bowman/cardserv/status-commands.xml
+END
+ctrl-commands.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CSP/!svn/ver/8/trunk/plugins/DreamboxPlugin/src/com/bowman/cardserv/ctrl-commands.xml
+END
+BoxMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CSP/!svn/ver/196/trunk/plugins/DreamboxPlugin/src/com/bowman/cardserv/BoxMetaData.java
+END
+BoxOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CSP/!svn/ver/149/trunk/plugins/DreamboxPlugin/src/com/bowman/cardserv/BoxOperation.java
+END
+DummyShellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CSP/!svn/ver/1/trunk/plugins/DreamboxPlugin/src/com/bowman/cardserv/DummyShellFactory.java
+END
+AgentWeb.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CSP/!svn/ver/149/trunk/plugins/DreamboxPlugin/src/com/bowman/cardserv/AgentWeb.java
+END
+FileUploadPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CSP/!svn/ver/131/trunk/plugins/DreamboxPlugin/src/com/bowman/cardserv/FileUploadPermission.java
+END

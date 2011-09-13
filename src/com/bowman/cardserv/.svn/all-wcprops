@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/CSP/!svn/ver/203/trunk/src/com/bowman/cardserv
+END
+MySQLUserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CSP/!svn/ver/154/trunk/src/com/bowman/cardserv/MySQLUserManager.java
+END
+proxy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/CSP/!svn/ver/165/trunk/src/com/bowman/cardserv/proxy.xml
+END
+CspNetMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CSP/!svn/ver/201/trunk/src/com/bowman/cardserv/CspNetMessage.java
+END
+ListenPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/ListenPort.java
+END
+CardData.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/CardData.java
+END
+CaProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/CSP/!svn/ver/154/trunk/src/com/bowman/cardserv/CaProfile.java
+END
+CspConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CSP/!svn/ver/11/trunk/src/com/bowman/cardserv/CspConnection.java
+END
+LoggingPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/LoggingPlugin.java
+END
+MessageCacheMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CSP/!svn/ver/39/trunk/src/com/bowman/cardserv/MessageCacheMap.java
+END
+ProxyConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/CSP/!svn/ver/195/trunk/src/com/bowman/cardserv/ProxyConfig.java
+END
+SidCacheLinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CSP/!svn/ver/201/trunk/src/com/bowman/cardserv/SidCacheLinker.java
+END
+DefaultCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CSP/!svn/ver/191/trunk/src/com/bowman/cardserv/DefaultCache.java
+END
+CardServProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CSP/!svn/ver/154/trunk/src/com/bowman/cardserv/CardServProxy.java
+END
+ClusteredCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CSP/!svn/ver/201/trunk/src/com/bowman/cardserv/ClusteredCache.java
+END
+CamdNetMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CSP/!svn/ver/201/trunk/src/com/bowman/cardserv/CamdNetMessage.java
+END
+SimpleUserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CSP/!svn/ver/178/trunk/src/com/bowman/cardserv/SimpleUserManager.java
+END
+ConfigException.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/ConfigException.java
+END
+AdvXmlUserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CSP/!svn/ver/183/trunk/src/com/bowman/cardserv/AdvXmlUserManager.java
+END
+CaidProviderPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/CaidProviderPair.java
+END
+AcceptThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/AcceptThread.java
+END
+XmlUserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/XmlUserManager.java
+END
+ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/CSP/!svn/ver/14/trunk/src/com/bowman/cardserv/ca.properties
+END
+NewcamdConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/NewcamdConnection.java
+END

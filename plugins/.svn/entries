@@ -1,0 +1,64 @@
+9
+
+dir
+203
+http://streamboard.gmc.to/svn/CSP/trunk/plugins
+http://streamboard.gmc.to/svn/CSP
+
+
+
+2011-09-10T17:09:30.267982Z
+202
+bowman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+96d545e8-fc7a-4ab8-b118-dd1d7516bec5
+
+MySQLWebManagementPlugin
+dir
+
+SoftNdsPlugin
+dir
+
+DreamboxPlugin
+dir
+
+BetacryptTunnelPlugin
+dir
+
+DcwFilterPlugin
+dir
+
+GeoipPlugin
+dir
+
+ConaxConnector
+dir
+
+EmmAnalyzerPlugin
+dir
+
+IrdetoPlugin
+dir
+
+MessagingPlugin
+dir
+
+ProviderIdentPlugin
+dir
+
+CacheCoveragePlugin
+dir
+

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/CSP/!svn/ver/201/trunk/src/com/bowman/cardserv/web
+END
+FileFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CSP/!svn/ver/23/trunk/src/com/bowman/cardserv/web/FileFetcher.java
+END
+XmlHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CSP/!svn/ver/201/trunk/src/com/bowman/cardserv/web/XmlHelper.java
+END
+status-commands.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CSP/!svn/ver/154/trunk/src/com/bowman/cardserv/web/status-commands.xml
+END
+CtrlCommandResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/web/CtrlCommandResult.java
+END
+StatusCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/web/StatusCommand.java
+END
+ctrl-commands.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CSP/!svn/ver/100/trunk/src/com/bowman/cardserv/web/ctrl-commands.xml
+END
+CtrlCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/web/CtrlCommand.java
+END
+WebBackend.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CSP/!svn/ver/201/trunk/src/com/bowman/cardserv/web/WebBackend.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/CSP/!svn/ver/1/trunk/src/com/bowman/cardserv/web/Command.java
+END

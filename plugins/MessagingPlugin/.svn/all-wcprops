@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/CSP/!svn/ver/74/trunk/plugins/MessagingPlugin
+END
+triggers.example.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CSP/!svn/ver/1/trunk/plugins/MessagingPlugin/triggers.example.xml
+END
+MessagingPlugin.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CSP/!svn/ver/74/trunk/plugins/MessagingPlugin/MessagingPlugin.ipr
+END
+README.MessagingPlugin.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CSP/!svn/ver/1/trunk/plugins/MessagingPlugin/README.MessagingPlugin.txt
+END
+MessagingPlugin.iml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CSP/!svn/ver/1/trunk/plugins/MessagingPlugin/MessagingPlugin.iml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/CSP/!svn/ver/73/trunk/plugins/MessagingPlugin/build.xml
+END
